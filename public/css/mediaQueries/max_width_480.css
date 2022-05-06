@@ -1,0 +1,215 @@
+/* -----------------------  
+      Max width 480
+-------------------------*/
+@media screen and (max-width: 480px) {
+  .footer_coloumn {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .footer_coloumn_1 {
+    margin-right: 30px !important;
+    padding: 0 !important;
+  }
+  .footer_coloumn_5, .footer_coloumn_3, .footer_coloumn_4 {
+    margin-top: 25px !important;
+    margin-left: 50px !important;
+  }
+  .footer_coloumn_1 p {
+    padding-right: 0px !important;
+  }
+
+  .searchBtn {
+    margin-left: 30px !important;
+  }
+  .search_form {
+    transform: none !important;
+    margin-bottom: 120px !important;
+  }
+
+  .create-btn {
+    margin-bottom: 10px;
+  }
+  .img-fluid {
+    width: 100% !important;
+    margin: 0px !important;
+  }
+  .msg-btn {
+    width: 200px !important;
+    margin-bottom: 10px;
+  }
+  .img {
+    margin-left: -15px !important;
+    padding-left: 0px !important;
+  }
+  .img-section {
+    width: 100% !important;
+    margin-left: -10px !important;
+  }
+  .img-section > img {
+    object-fit: cover;
+    width: 100% !important;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+  .green-line {
+    color: white;
+    font-size: 18px;
+    padding: 10px 0px;
+    text-align: center;
+  }
+  .float {
+    float: left;
+    margin-left: 10px;
+  }
+  .width {
+    width: 90%;
+  }
+  div.upload {
+    background-color: #fff;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px 40px 10px 3px;
+    position: relative;
+    width: 80%;
+    cursor: pointer;
+  }
+  div.upload:hover {
+    opacity: 0.95;
+  }
+  div.upload input[type="file"] {
+    display: input-block;
+    width: 100%;
+    opacity: 0;
+    position: absolute;
+    left: 0;
+  }
+  .uploadButton {
+    background-color: #00b4a2;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    width: auto;
+    padding: 8px 20px;
+    margin-left: 160px;
+  }
+  .footer {
+    margin-top: 75%;
+  }
+  .ag_member {
+    width: 30%;
+  }
+  .btn-lg {
+    width: 200px !important;
+  }
+  .card1 {
+    margin-top: -21px;
+    width: 100% !important;
+  }
+  .blogbtn {
+    width: 100% !important;
+    margin-bottom: 5px;
+  }
+  .blog-img {
+    width: 100% !important;
+  }
+  .input {
+    width: 100% !important;
+    margin-bottom: 5px;
+    margin-left: 0px !important;
+  }
+  .button {
+    margin-top: 10px;
+    width: 100% !important;
+    margin-left: -25px !important;
+  }
+  .navbar-brand {
+    margin-left: 0px !important;
+  }
+  .pills-margin {
+    margin-left: 18px !important;
+    text-align: center;
+  }
+  .display {
+    display: none;
+  }
+  #grid {
+    display: none;
+  }
+  #list {
+    display: none;
+  }
+  .item {
+    margin-bottom: 25px;
+  }
+  .foot-descip {
+    padding-right: 40px !important;
+  }
+  .social-icons {
+    text-align: center !important;
+    margin-bottom: 30px !important;
+  }
+  .green1 {
+    border: 1px solid #00b4a2;
+    margin-right: 80%;
+  }
+  .padding {
+    padding-left: 50px;
+  }
+  .mob-padding {
+    padding-top: 30px !important;
+    margin-top: 20px !important;
+  }
+  .input1 {
+    width: 100% !important;
+    margin-bottom: 5px;
+  }
+  .form-label {
+    float: left !important;
+    text-align: left !important;
+  }
+  .center {
+    text-align: center;
+    float: center;
+    justify-content: center;
+  }
+  .profile_pic1 {
+    text-align: center;
+    margin-left: 50px;
+  }
+  .change-pw {
+    margin-top: 30px;
+  }
+  .margin-left {
+    margin-left: 50px;
+  }
+  .upload-margin {
+    margin-top: 20px;
+  }
+  .funds {
+    margin-top: 30px;
+    margin-left: 15px;
+  }
+  .letter {
+    margin-left: 15px;
+  }
+  .home {
+    margin-left: 15px;
+    margin-right: 40px;
+  }
+  .card1 {
+    margin-top: -17px;
+    text-align: left;
+  }
+  .card2 {
+    margin-top: 20px;
+  }
+  .subcribe {
+    display: none;
+  }
+  .button1 {
+    width: 200px !important;
+    margin-left: 30px;
+  }
+}

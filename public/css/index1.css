@@ -1,0 +1,504 @@
+body{
+    background-color: red;
+    font-family: 'monteserrat' !important;
+}
+
+h2{
+    font-weight:bolder;
+}
+/* 
+Navbar Start */
+.navbar{
+    color:black;
+}
+
+.navbar-toggler-icon{
+    color:black;
+}
+
+.nt-1{
+    border-top: 2px solid #0AAC7E;
+
+}
+
+.brand-logo{
+    height: 30px;
+
+}
+
+/* .sign-in-button{
+    height: 18px;
+    padding-top: 2px;
+} */
+/* Navbar Flag */
+.flag{
+    width: 30px;
+    height: 24px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding: 2px ;
+}
+
+  /* Navbar Ends */
+
+
+  /* Slider Section */
+  .slider{
+    background-color: #ffffff;
+    color:#000000;
+  }
+.text-section{
+    padding:50px;
+}
+
+.img-section > img{
+height:354px;
+width:100%;
+}
+
+  /* End Slider Section */
+
+  /* Booking engine */
+  .search-engine{
+      background-color: orange;
+      padding-top:15px;
+      padding-left: 0px;
+      margin-top: -71px;
+      padding-right: 0px;
+      border-top-right-radius: 15px;
+  }
+  .search-input{
+      width:385px;
+      height: 40px;
+      border:1px transparent;
+      padding-left: 35px;
+      border-radius: 3px;
+  }
+  .has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.input{
+    height:40px;
+    width:150px;
+    border:1px solid white;
+    padding:5px;
+    background-color: transparent;
+    color: white;
+    border-radius: 3px;
+}
+
+  /* End Booking Engine */
+
+  /* Start Neighboorhood section */
+.b-top{
+    border-top:3px solid orange;
+}
+
+.neighborhood-img{
+    width: 100%;
+    height: 240px;
+}
+
+.description{
+    background-color: white;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    width:50%;
+    margin-top: -70px;
+    position: absolute;
+    font-weight: bold;
+    border: 1px solid lightslategray;
+    
+}
+.description1{
+    background-color: white;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    width:26%;
+    margin-top: -70px;
+    position: absolute;
+    font-weight: bold;
+    border: 1px solid lightslategray;
+    
+}
+
+.descrip{
+    color:#0AAC7E;
+    font-weight: normal;
+}
+  /* End Neighboorhodd Section */
+
+
+  /* Feature Listings */
+.features{
+    background-color: #333333;
+    padding-top: 50px;
+    color: white;
+}
+
+.descip-border{
+    border-bottom: 1px solid #0AAC7E;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+
+.items {
+    width: 90%;
+    margin: 0px auto;
+
+}
+.slick-next{
+    background-color: red;
+}
+ .slick-arrow{
+     background-color: red;
+ }
+
+.item{
+    border:1px solid grey;
+    border-radius: 5px;
+}
+.green{
+    /*border:2px solid #0AAC7E !important;*/
+}
+
+.slick-slide {
+    margin: 10px;
+}
+
+.address{
+    color:grey;
+    margin-top: -35px;
+    padding-top: -30px;
+}
+
+.descriptions{
+    background-color: #333333;
+    color: white;
+}
+
+.icon{
+    color:white;
+    border:1px solid black;
+    background-color: skyblue;
+    border-radius: 60%;
+    padding: 0px 5px 2px 5px;
+}
+
+.slick-slide img {
+    width: 100%;
+    border: 0px solid #fff;
+    height:240px;
+}
+  
+ .premium{
+     color:white;
+     background-color: red;
+     border-bottom-left-radius: 18px;
+     padding: 5px;
+     position:absolute;
+    float: right;
+    margin-left: 265px;
+
+
+ }
+  /* End Feature Listenings */
+
+  /* brand-section */
+.brand-section{
+    background-color: #f9f9f9;
+}
+
+.logo-img {
+    height: 120px;
+    width:170px;
+}
+
+.premium1{
+    color:white;
+    background-color: red;
+    border-bottom-left-radius: 18px;
+    padding: 5px;
+    position:absolute;
+   float: right;
+   margin-left: 295px;
+
+
+}
+  /* End brand-section */
+
+  /* Footer */
+.footer-img{
+    width:50%;
+    height: 100px;
+}
+
+.social-icon{
+    border:1px solid black;
+    padding: 5px;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+}
+.social-icon1{
+    border:1px solid black;
+    padding: 3px;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+}
+ul {
+    list-style: none;
+  }
+  
+.ul{
+margin-left: -30px;
+}
+.footer{
+    background-color: #f3f3f3;
+    margin-left: -50px !important;
+    margin-right: -50px !important;
+}
+
+.footer1{
+    background-color: #f3f3f3;
+    margin-left: -50px !important;
+    margin-right: -50px !important
+}
+.green1{
+    padding-left: 30px;
+    border:1px solid #0AAC7E;
+    margin-right: 130px;
+}
+
+
+.horizontalLine
+   {
+   border-top:solid 1px black;
+   height: 1px;
+   
+   }
+
+  /* End footer */
+
+  /* Sign in  */
+ .form-container{
+     /* font-family: Montserrat-Regular ; */
+     /* font-size: 13px; */
+     color: #8695A1;
+ }
+ .form-container button{
+     /* background-color: brown; */
+     width: 30%;
+     /* color: #8695A1; */
+     /* font-weight: bold;  */
+     /* height:10px; */
+ }
+ .form-container a{
+     color: #4A4A4A;
+ }
+ #ag_mem{
+     width: 20%;
+     height: 40px;
+    border: 1px solid  #ACACAC33; 
+    border-radius: 5px;
+ }
+#blogbtn{
+    border: none; 
+    background: #FB9F35;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+    /* width: 100%; */
+}
+.ulstyles li::before {
+    content: "\2022";
+    color: #00B4A2;
+    /* font-weight: bold; */
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+    font-size: 20px;
+  }
+  .blog-img{
+      height: 222px;
+      width: 200px;
+  }
+  .blog-bg{
+      background-color: #2D2D2D;
+      color:#FFFFFF
+  }
+  .blog-bg a{
+    
+    color: #00B4A2
+}
+.blog-img-labels{
+    color:#2A2A2A;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #FB9F35;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 18px;
+    padding-left: 18px;
+    margin-left: 10px;
+    margin-top: 13em;
+    position:absolute;
+   /* float: right; */
+   /* margin-left: 265px; */
+
+}
+.load-more{
+    color: #686868;
+    background-color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border: 1px solid #D4D9DD;
+    border-radius: 5px;
+    
+}
+
+.form-label{
+    font-size:15px;
+    font-weight: bold;
+}
+
+.radio-btn{
+    font-size: 20px;
+}
+
+.select-color{
+    border:1px solid gainsboro;
+    border-radius: 2px;
+    color: grey;
+}
+
+.active{
+    border-bottom: 3px solid #00B4A2  !important;
+    margin-left: 2px;
+    margin-right: 10px;
+    width:fit-content;
+}
+
+.nav-link{
+    color:black !important;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color:black;
+}
+
+#pills-home-tab{
+    border-bottom: 2px solid lightslategray;
+    margin-left: 2px;
+    margin-right: 10px;
+}
+
+#pills-profile-tab{
+    border-bottom: 2px solid lightslategray;
+    margin-left: 2px;
+    margin-right: 10px;
+}
+
+#pills-contact-tab{
+    border-bottom: 2px solid gray;
+    margin-left: 2px;
+    margin-right: 10px;
+}
+
+#pills-subcribe-tab{
+    border-bottom: 2px solid gray;
+    margin-left: 2px;
+    margin-right: 10px;
+}
+
+.upload-btn{
+    background-color: transparent !important;
+    width:212px;
+    height: 35px;
+    border-color: gray !important;
+    color:black !important;
+    margin-top: 15px;
+   
+    font-weight: bold !important;
+}
+
+.delete-btn{
+    background-color: transparent !important;
+    width:212px;
+    height: 35px;
+    border:none !important;
+    color:grey !important;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    font-weight: bold !important;
+}
+
+h5{
+    font-weight: bold !important;
+}
+
+label{
+    font-weight: lighter !important;
+}
+
+.green-btn{
+    width: 212px;
+    height: 45px;
+    background-color: #00B4A2 !important;
+    border-color: transparent !important;
+}
+
+.image-border{
+    border:1px solid gray;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.doc-upload-btn{
+    width: 150px;
+    height: 45px;
+    background-color: #00B4A2 !important;
+    border-color: transparent !important;
+}
+
+.advertise{
+    border:10px solid #FB9F35;
+    width:453px;
+    height: 665px;
+    padding-top: 25%;
+}
+
+#pills-profile{
+    border:none !important;
+}
+
+#pills-contact{
+    border:none !important;
+}
+
+#pills-subscription{
+    border:none !important;
+}
